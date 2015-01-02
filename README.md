@@ -2,7 +2,7 @@ ClassProjects
 =============
 
 
-A repository for all my Master's coursework project
+A repository for some of my Master's coursework project
 
 Bitcoin_mining - akka actor based project to mine bitcoins of specific pattern. A brute force algorithm parallelized using actor model
 
